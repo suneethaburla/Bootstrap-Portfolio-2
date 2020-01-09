@@ -1,4 +1,4 @@
-# Basic-Portfolio-2
+# Bootstrap-Portfolio-2
 This is Suneetha Burla's Bootstrap portfolio webpage.
 ## Project Title: Suneetha Burla's Bootstrap Portfolio
 ## Project Description
