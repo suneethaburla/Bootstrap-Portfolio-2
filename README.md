@@ -32,7 +32,7 @@ Here is the screenshot of the Portfolio page.
 ![alt Portfolio](assets/images/Portfolio-html.png)
 * Contact.html-
 Here is the screenshot of the Contact page.
-![alt Contact](assets/images/Contact-html.png)
+![alt Contact](assets/images/Contact-Html.png)
 
 
 
