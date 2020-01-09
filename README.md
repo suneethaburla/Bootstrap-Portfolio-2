@@ -1,8 +1,8 @@
 # Basic-Portfolio-2
-This is Suneetha Burla's basic portfolio webpage.
-## Project Title: Suneetha Burla's Basic Portfolio
+This is Suneetha Burla's Bootstrap portfolio webpage.
+## Project Title: Suneetha Burla's Bootstrap Portfolio
 ## Project Description
-This project describes how to build a professional portfolio site using HTML and CSS. The end product of this project is a portfolio site which has links to direct users to basic information page about the developer, a portfolio page which contains the links to different projects and repositories and a contact page for the users to fill in and submit their contact information.
+This project describes how to build a professional portfolio site using Bootstrap CSS framework. The end product of this project is a portfolio site which has links to direct users to basic information page about the developer, a portfolio page which contains the links to different projects and repositories and a contact page for the users to fill in and submit their contact information. This is a mobile responsive website, which means it will render well on a variety of devices and windows or screen sizes
 ## Installation
 In order to install this project, follow the instructions below.
 * Prerequisites
@@ -21,16 +21,18 @@ SSH keys
 
 ## Screenshots of code and the portfolio webpages
 Here is a screenshot of the code snippet from the index.html file
-![alt Index](assets/images/Index-html.png)
+![alt Index](assets/images/Index-html-code.png)
 * Index.html-
-Here is the screenshot of the basic portfolio homepage.
-![alt About](assets/images/About-html.png)
+Here is the screenshot of the Bootsrtap portfolio homepage viewed on small and large screens
+![alt About](assets/images/Index-lg-html.png)
+Here is the screenshot of the Bootsrtap portfolio homepage viewed on xsmall screens
+![alt About](assets/images/Index-xsm-html.png)
 * Portfolio.html-
 Here is the screenshot of the Portfolio page.
 ![alt Portfolio](assets/images/Portfolio-html.png)
 * Contact.html-
 Here is the screenshot of the Contact page.
-![alt Contact](assets/images/Contact-Html.png)
+![alt Contact](assets/images/Contact-html.png)
 
 
 
